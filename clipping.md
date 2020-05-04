@@ -37,7 +37,7 @@ você pode propor uma mudança nesse arquivo diretamente pelo botão "editar". :
 - [2020-03-23 Gazeta do Povo - Mapa do coronavírus por cidades no Brasil](https://especiais.gazetadopovo.com.br/coronavirus/casos-no-brasil-por-cidades/)
 - [2020-03-23 Gazeta do Povo - Evolução do coronavírus no Brasil](https://especiais.gazetadopovo.com.br/coronavirus/evolucao-de-casos-no-brasil/)
 - [2020-03-23 CNN Brasil - Boletins estaduais indicam quase 40 casos de coronavírus a mais do que governo](https://www.cnnbrasil.com.br/saude/2020/03/23/boletins-estaduais-indicam-quase-40-casos-de-coronavirus-a-mais-do-que-governo)
-
+[2020-05-04 Pesquisadores do IFGoiano criam portal para monitoramento do Covid-19 e dados associados pelo Brasil] (https://www.informecovid19.com.br/)
 
 ## Podcasts
 
