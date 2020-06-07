@@ -52,7 +52,7 @@ você pode propor uma mudança nesse arquivo diretamente pelo botão "editar". :
 
 
 ## Análises e Projetos
-
+- [COVID-19 Brasil em Dashboard](https://www.informecovid19.com.br/)
 - [App COVID-19 no Brasil e no Mundo](https://github.com/Gabplay/flutter_covid19_brasil) - [Download](https://bit.ly/downloadAppCovidBR)
 - [Corona Cidades - Simulador](https://coronacidades.org/simulacovid/)
 - [Onde tem Coronavírus](https://ondetemcoronavirus.com.br/)
